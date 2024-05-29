@@ -16,3 +16,5 @@ public class Desafio3
         System.out.println("Todos os números da lista são positivos? " + resultado);
     }
 }
+
+//DONE!!
